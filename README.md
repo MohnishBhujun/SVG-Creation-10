@@ -6,7 +6,7 @@ For Challenge 10, an SVG creator had to be done. It had to be able to have three
 
 Below is a screen recording of how the application works and the SVGs created can be seen in the file test:
 
-https://github.com/MohnishBhujun/SVG-Creation-10/assets/149837818/d21e8fce-2f3b-4806-a722-33fdc51abe11
+https://github.com/MohnishBhujun/SVG-Creation-10/assets/149837818/21e9a4d3-512b-4d13-8ddd-1640f79f3403
 
 Below are screenshots of the SVGs:
 
