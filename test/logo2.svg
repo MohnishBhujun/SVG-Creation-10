@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+      <!-- Background -->
+      <circle cx="200" cy="150" r="135" fill="Cyan"/>
+      <!-- Text -->
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="Green" font-size="64" font-family="Arial">WOO</text>
+    </svg>
+    
